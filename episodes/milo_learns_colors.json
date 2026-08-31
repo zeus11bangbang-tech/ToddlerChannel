@@ -1,13 +1,45 @@
 {
-  "title": "Milo Learns Colors",
+  "title": "Milo Learns His Colors With Animals",
   "scenes": [
     {
-      "prompt": "Milo finds a bright red ball and holds it up.",
-      "narration": "Look! A red ball. Red. Can you say red?"
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a cute red ladybug and a giant red circle. Milo points excitedly at the color red. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "Milo found red! Red! This is red! Red ladybug!"
     },
     {
-      "prompt": "Milo finds a bright blue block and holds it up.",
-      "narration": "Now we found blue. Blue!"
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a cute orange fox and a giant orange circle. Milo points excitedly at the color orange. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "Milo found orange! Orange! This is orange! Orange fox!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a cute yellow duckling and a giant yellow circle. Milo points excitedly at the color yellow. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "Milo found yellow! Yellow! This is yellow! Yellow duck!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a cute green frog and a giant green circle. Milo points excitedly at the color green. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "Milo found green! Green! This is green! Green frog!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a cute blue whale and a giant blue circle. Milo points excitedly at the color blue. Rounded soft shapes, simple uncluttered underwater preschool background, cheerful educational style, gentle swimming movement.",
+      "narration": "Milo found blue! Blue! This is blue! Blue whale!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a cute purple butterfly and a giant purple circle. Milo points excitedly at the color purple. Rounded soft shapes, simple uncluttered preschool garden background, cheerful educational style, gentle flying movement.",
+      "narration": "Milo found purple! Purple! This is purple! Purple butterfly!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a cute pink flamingo and a giant pink circle. Milo points excitedly at the color pink. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "Milo found pink! Pink! This is pink! Pink flamingo!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a cute brown bear and a giant brown circle. Milo points excitedly at the color brown. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "Milo found brown! Brown! This is brown! Brown bear!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a cute black penguin and a giant black circle. Milo points excitedly at the color black. Rounded soft shapes, simple colorful preschool background with enough contrast to clearly see the black circle, cheerful educational style, gentle playful movement.",
+      "narration": "Milo found black! Black! This is black! Black penguin!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a cute white lamb and a giant white circle. Milo points excitedly at the color white. Rounded soft shapes, colorful preschool background with enough contrast to clearly see the white circle and lamb, cheerful educational style, gentle playful movement.",
+      "narration": "Milo found white! White! This is white! White lamb!"
     }
   ]
 }
