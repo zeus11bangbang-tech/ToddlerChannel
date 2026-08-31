@@ -1,0 +1,13 @@
+{
+  "title": "Milo Learns Colors",
+  "scenes": [
+    {
+      "prompt": "Milo finds a bright red ball and holds it up.",
+      "narration": "Look! A red ball. Red. Can you say red?"
+    },
+    {
+      "prompt": "Milo finds a bright blue block and holds it up.",
+      "narration": "Now we found blue. Blue!"
+    }
+  ]
+}
