@@ -1,0 +1,37 @@
+{
+  "title": "Milo Learns Shapes",
+  "scenes": [
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a giant red circle. Milo points at the circle while colorful balls gently bounce nearby. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "Look, Milo! A circle! Round and round!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a giant blue square. Milo points at the square while colorful toy blocks sit nearby. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "A square! One, two, three, four sides!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a giant yellow triangle. Milo points at the triangle while three colorful toy cones sit nearby. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "Triangle! One, two, three sides!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a giant green rectangle. Milo points at the rectangle while a colorful toy door and book appear nearby. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "Here is a rectangle! Long and tall!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a giant pink heart. Milo smiles and hugs the heart while tiny soft hearts float gently nearby. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "A heart! Milo loves the heart shape!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a giant purple star. Milo looks up excitedly as small colorful stars gently twinkle around him. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "Twinkle, twinkle! It's a star!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a giant orange oval. Milo points at the oval while a colorful cartoon egg appears nearby. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "An oval! It's long and round!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. Milo, a cute friendly blue teddy bear mascot with soft sky-blue fur, round teddy bear ears, a light blue tummy, big friendly eyes, a small cute nose, and a happy smiling face, stands beside a giant teal diamond shape. Milo points at the diamond as it gently sparkles. Rounded soft shapes, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "Look at the diamond! Pointy at the top and bottom!"
+    }
+  ]
+}
