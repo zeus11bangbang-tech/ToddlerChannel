@@ -1,0 +1,17 @@
+{
+  "title": "ABC Animals A-Z",
+  "scenes": [
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. A cute friendly baby alligator beside a giant uppercase letter A. Large expressive eyes, rounded soft shapes, happy smiling face, vibrant rainbow colors, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "A! A is for Alligator! Alligator!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. A cute friendly baby bear beside a giant uppercase letter B. Large expressive eyes, rounded soft shapes, happy smiling face, vibrant rainbow colors, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "B! B is for Bear! Bear!"
+    },
+    {
+      "prompt": "Bright colorful 3D cartoon animation for babies and toddlers. A cute friendly kitten beside a giant uppercase letter C. Large expressive eyes, rounded soft shapes, happy smiling face, vibrant rainbow colors, simple uncluttered preschool background, cheerful educational style, gentle playful movement.",
+      "narration": "C! C is for Cat! Cat!"
+    }
+  ]
+}
